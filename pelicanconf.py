@@ -29,7 +29,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 100
+THEME = "/Users/acidjunk/.virtualenvs/blog/lib/python3.6/site-packages/pelican/themes/semantic-ui/"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
